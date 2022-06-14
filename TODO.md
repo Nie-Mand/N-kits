@@ -2,3 +2,4 @@
 - Add Switch Case
 - Add Redux Helpers
 - Add Protected Component
+- Automatic Version Update
