@@ -1,3 +1,5 @@
+import React from 'react'
+
 interface IFor<T> {
   children: (item: T, idx: number, arr: T[]) => React.ReactNode
   it: T[]
