@@ -1,11 +1,12 @@
 # Niemand's Toolkits
 
+Some tools for the [Niemand](https://github.com/Nie-Mand), that I use often
 
 ## Conditions
 
 ### If, Else
 ```tsx
-import { If, Else } from ''
+import { If, Else } from 'n-kits'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -36,7 +37,7 @@ function App() {
 ## For Loop
 
 ```tsx
-import { For } from "ntkit"
+import { For } from "n-kits"
 
 const data = [
   {
