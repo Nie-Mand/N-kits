@@ -19,10 +19,8 @@ function App() {
 
       <If c={count === 5}>
         x is 5
-        <br />
         <Else c={count > 5}>
           x is greater than 5
-          <br />
         </Else>
         <Else>x is less than 5</Else>
       </If>

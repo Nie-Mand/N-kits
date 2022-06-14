@@ -1,0 +1,4 @@
+- Fix the If, Else
+- Add Switch Case
+- Add Redux Helpers
+- Add Protected Component
